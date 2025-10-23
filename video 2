@@ -19,7 +19,8 @@ Cómo manejar puertos y volúmenes: mostrar servicios al exterior, conectar cont
 
 Cómo coordinar muchos servicios usando Docker Compose: decir en un archivo los diferentes componentes (web, base de datos, memoria caché, etc.), configurar cómo se relacionan, y levantarlos todos con una sola orden.
 
-Cómo preparar tus imágenes para usarlas en la realidad o para compartirlas: ponerles etiquetas, subirlas a un lugar donde se guardan imágenes (como Docker Hub), darles diferentes versiones, asegurarse de que estén mejoradas y seguras.
+Cómo preparar tus imágenes para usarlas en la realidad o para compartirlas: ponerles etiquetas, subirlas a un lugar donde se 
+guardan imágenes (como Docker Hub), darles diferentes versiones, asegurarse de que estén mejoradas y seguras.
 
 Por último, el video destaca las cosas que se deben hacer bien: no incluir datos importantes dentro de la imagen, mantenerlas pequeñas, limpiar cosas que no se usan, dar diferentes versiones a los trabajos, explicar bien cómo funcionan las cosas para que otros puedan copiar tu configuración.
 
